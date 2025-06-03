@@ -6,11 +6,8 @@ This project aims to predict the quality of red wine based on several physicoche
 
 Key objectives:
 
-Explore and visualize the dataset.
-
-Train and evaluate multiple regression models.
-
-Perform hyperparameter tuning using GridSearchCV.
-
-Export predictions and the best model for future use.
+- Explore and visualize the dataset.
+- Train and evaluate multiple regression models.
+- Perform hyperparameter tuning using GridSearchCV.
+- Export predictions and the best model for future use.
 
